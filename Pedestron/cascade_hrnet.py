@@ -1,3 +1,6 @@
+# This file was extracted from Pedestron repository
+# https://github.com/hasanirtiza/Pedestron/blob/master/configs/elephant/crowdhuman/cascade_hrnet.py
+
 # model settings
 model = dict(
     type='CascadeRCNN',
