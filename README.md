@@ -10,5 +10,5 @@ Social distancing detector developed during COVID19 pandemic.
 This repository makes use of [MMDetection](https://github.com/open-mmlab/mmdetection) and [Pedestron](https://github.com/hasanirtiza/Pedestron) repository.
 
 ## Authors
-José Fernández Portal (jose.fp@gmail.com)
+José Fernández Portal (jose.fp@gmail.com)\
 Francisco Ingham (fpingham@gmail.com)
